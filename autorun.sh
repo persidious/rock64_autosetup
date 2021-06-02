@@ -1,3 +1,4 @@
+cd ..
 apt-get update
 apt-get upgrade -y
 apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
